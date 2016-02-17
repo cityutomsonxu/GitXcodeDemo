@@ -14,6 +14,7 @@
 		744E18B31C7408600031D59A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744E18B11C7408600031D59A /* LaunchScreen.storyboard */; };
 		744E18BE1C7408600031D59A /* GitXcodeDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744E18BD1C7408600031D59A /* GitXcodeDemoTests.swift */; };
 		744E18C91C7408600031D59A /* GitXcodeDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744E18C81C7408600031D59A /* GitXcodeDemoUITests.swift */; };
+		744E18D71C740A3F0031D59A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 744E18D61C740A3F0031D59A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		744E18C41C7408600031D59A /* GitXcodeDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitXcodeDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		744E18C81C7408600031D59A /* GitXcodeDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitXcodeDemoUITests.swift; sourceTree = "<group>"; };
 		744E18CA1C7408600031D59A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		744E18D61C740A3F0031D59A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		744E189C1C7408600031D59A = {
 			isa = PBXGroup;
 			children = (
+				744E18D61C740A3F0031D59A /* .gitignore */,
 				744E18A71C7408600031D59A /* GitXcodeDemo */,
 				744E18BC1C7408600031D59A /* GitXcodeDemoTests */,
 				744E18C71C7408600031D59A /* GitXcodeDemoUITests */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				744E18D71C740A3F0031D59A /* .gitignore in Resources */,
 				744E18B31C7408600031D59A /* LaunchScreen.storyboard in Resources */,
 				744E18B01C7408600031D59A /* Assets.xcassets in Resources */,
 				744E18AE1C7408600031D59A /* Main.storyboard in Resources */,
